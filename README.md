@@ -1,5 +1,7 @@
 # Node App Base
 
+[![Build
+Status](https://travis-ci.org/alistairjcbrown/node-app-base.svg?branch=master)](https://travis-ci.org/alistairjcbrown/node-app-base)
 [![GitHub version](https://badge.fury.io/gh/alistairjcbrown%2Fnode-app-base.svg)](http://badge.fury.io/gh/alistairjcbrown%2Fnode-app-base)
 [![Dependency Status](https://david-dm.org/alistairjcbrown/node-app-base.svg?theme=shields.io)](https://david-dm.org/alistairjcbrown/node-app-base)
 [![devDependency Status](https://david-dm.org/alistairjcbrown/node-app-base/dev-status.svg?theme=shields.io)](https://david-dm.org/alistairjcbrown/node-app-base#info=devDependencies)
