@@ -1,5 +1,5 @@
 /**
- *  Redis client Tests
+ *  Application Dependency Tests
  */
 define([
     "mocks/pubsub"
@@ -8,7 +8,7 @@ define([
 ) {
     "use strict";
 
-    suite("Redis clients", function() {
+    suite("Application Dependency", function() {
         var config_mock = { foo: "bar" },
             app_dep;
 
@@ -17,7 +17,6 @@ define([
             injector.mock("config", config_mock);
             injector.require(["lib/application-dependency"], function(application_dependency) {
                 app_dep = application_dependency;
-                app_dep.init();
                 done();
             });
         });

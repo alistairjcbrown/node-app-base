@@ -4,13 +4,13 @@
 Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
 Comment: GPGTools - https://gpgtools.org
 
-iQEcBAABCgAGBQJUpDcqAAoJEJEOHi8Q7zzzOBUIAMG5hwpcAkNMoZKnMq6Yezjx
-746Sh3sPkyWteqq9fHNVpIiV7FaFyUt5ryLBOxvw3SCmqN8mhf6ZTCWrkjArvfYh
-O3I3TxmRG2YYmD2a3+qzDtM2+Abr9kteFByyIGzLGFywEKrUmZCx+wGqNsIY+OkB
-ud+6+fl6T7sWNlYKMeJ5UHs9HBVmn2ZTE7TUlMkVzZQPNbB3BXBYogGwhWuhwQJ3
-7V8Vw/RMTVEXbChtLxJPz//Sk+106isRM8Z8i2CS1Fxo5rtl5MC0quPgDFDu+u6m
-XLCsswigUsqZVs+45b2UNujL4Os4o0B7fF33yRb2/8bdmYc5Rrpm1cee166ceN0=
-=jLAO
+iQEcBAABCgAGBQJUpDpBAAoJEJEOHi8Q7zzzddYIAIMnU/NBR7/AvOsLB4s+m/7J
+UAYx+sRk/9WYarTreIeNbYMRMzsJt0TEXstDW3SmxuKqSO18CPu+jmAPBrqEZV5e
+ff47rA6jELlE7IkaIweVupKvWZVqQDg19Exszk0t4cY6SmV/gaSiXjgaeK2yCJqe
+umQkPdgDAmfcIJBFVrsi0g9FeaGiVoG3PXsLtsBNZBzXbkq28u2kgs10pfZZN2+f
+inA/sp4mZYh3vy7RoYArmlIYvxRgdi3qjyGnI+dBwmgNQIUMJNeZTv7j4Ch/Z48E
+iWMZq6p/gZx2vWDn2bto5TN8Z57vNCVUDH613RM9B97cakV+VPl0OCWXLKUDgXU=
+=Qn3Y
 -----END PGP SIGNATURE-----
 
 ```
@@ -44,7 +44,7 @@ size  exec  file                           contents
 281                 README.md              c576550adf2c12430ef263f3de66d1436ec1d39846a7c1a42f9f6ee21886a213
 629                 index.js               6b955099a0feb4c02591dddd380dde1b18b496b5a51d536ae366ba250fbd9963
                     tests/                                                                                 
-2721                  index.test.js        8acbb7e917d72b304a0835ee4233baafade1fc1e0bf235fb8cbb97b45a604ecc
+2708                  index.test.js        433468df4f7406cec2e3315473bf3e27351b183b6d2f05c9486e794f5298cfd6
                 tests/                                                                                     
                   mocks/                                                                                   
 273                 pubsub.js              1b782b73e4b8a9c2b42c045528a2a1a1052cf61920e36cc936e0e592bd5bf95d
